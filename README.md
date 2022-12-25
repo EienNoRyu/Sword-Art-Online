@@ -1,6 +1,6 @@
 # Contains the movies of **Sword Art Online**:
-> ## *1.* **Sword Art Online: Ordinal Scale**
-> ## *2.* **Sword Art Online the Movie -Progressive- Aria of a Starless Night**
+1. > ## **Sword Art Online: Ordinal Scale**
+2. > ## **Sword Art Online the Movie -Progressive- Aria of a Starless Night**
 
 
 
