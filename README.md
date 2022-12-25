@@ -10,3 +10,11 @@
 
 ![image](https://user-images.githubusercontent.com/90706834/209469166-cf11b6ad-ead9-4c0a-93fa-d6bf75f49a69.png)
 ***[For More Info -->](https://anilist.co/anime/124140)***
+
+
+
+
+# ***NOTES*** *for people who are willing to download:*
+
+> *The second movie is in parts compressed in archive files. Download all the parts and then extract to get the whole movie.*
+
