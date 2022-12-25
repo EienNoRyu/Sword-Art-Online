@@ -4,4 +4,4 @@ https://anilist.co/anime/11757/Sword-Art-Online/
 
 
 
-Contains the episodes of Sword Art Online{S.A.O.}.
+Contains the episodes of Sword Art Online{S.A.O.} (Season 1).
